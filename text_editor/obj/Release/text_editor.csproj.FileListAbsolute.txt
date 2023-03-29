@@ -1,0 +1,14 @@
+C:\Users\beranek.karel1\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\C#\Textový editor\text_editor\bin\Release\text_editor.exe.config
+C:\Users\beranek.karel1\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\C#\Textový editor\text_editor\bin\Release\text_editor.exe
+C:\Users\beranek.karel1\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\C#\Textový editor\text_editor\bin\Release\text_editor.pdb
+C:\Users\beranek.karel1\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\C#\Textový editor\text_editor\obj\Release\text_editor.csprojAssemblyReference.cache
+C:\Users\beranek.karel1\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\C#\Textový editor\text_editor\obj\Release\text_editor.Form_main.resources
+C:\Users\beranek.karel1\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\C#\Textový editor\text_editor\obj\Release\text_editor.Form_exeption.resources
+C:\Users\beranek.karel1\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\C#\Textový editor\text_editor\obj\Release\text_editor.Form_info.resources
+C:\Users\beranek.karel1\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\C#\Textový editor\text_editor\obj\Release\text_editor.Form_notimplemented.resources
+C:\Users\beranek.karel1\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\C#\Textový editor\text_editor\obj\Release\text_editor.Form_ulozit.resources
+C:\Users\beranek.karel1\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\C#\Textový editor\text_editor\obj\Release\text_editor.Properties.Resources.resources
+C:\Users\beranek.karel1\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\C#\Textový editor\text_editor\obj\Release\text_editor.csproj.GenerateResource.cache
+C:\Users\beranek.karel1\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\C#\Textový editor\text_editor\obj\Release\text_editor.csproj.CoreCompileInputs.cache
+C:\Users\beranek.karel1\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\C#\Textový editor\text_editor\obj\Release\text_editor.exe
+C:\Users\beranek.karel1\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\C#\Textový editor\text_editor\obj\Release\text_editor.pdb
